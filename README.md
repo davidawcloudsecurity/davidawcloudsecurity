@@ -19,7 +19,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 <img src="https://komarev.com/ghpvc/?username=davidawcloudsecurity&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
+
 ### :man_technologist: About Me :
 I am Cloud Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore.
 - :telescope: I’m a Cloud Security Engineer working on ensuring clients' infrastructure and web applications stay robust and protected.
