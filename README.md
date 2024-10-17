@@ -51,6 +51,7 @@ I am Cloud Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidawcloudsecurity&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidawcloudsecurity)](https://github.com/davidawcloudsecurity/github-readme-stats)
 
 <!--
 **davidawcloudsecurity/davidawcloudsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
