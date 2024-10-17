@@ -33,6 +33,10 @@ I am Cloud Security Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidawcloudsecurity/)
 
+- - 🔭 I’m currently working on creating a cloud security resume challenge...
+  - 
+- 🌱 I’m currently learning AWS security or SCS-C02...
+
 <!--
 **davidawcloudsecurity/davidawcloudsecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
